@@ -4,6 +4,7 @@
     border: none;
 }
 
+
 /* logo and menu*/
 
 #logo{
@@ -38,7 +39,8 @@ font-size: 120%;
 }
 
 #menu a:hover{
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid black;
+    color: lightslategray;
 }
 
 /* homepage */
@@ -47,16 +49,18 @@ font-size: 120%;
     margin-top: 100px;
     float:left;
     margin-left: 100px;
+    text-align: center;
 }
 
 #club-info h1{
     font-family: 'Cairo', sans-serif;
-    font-size: 50px;
+    font-size: 40px;   
 }
 
 #club-info p{
     margin-right: 150px;
     font-family: 'Mohave', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+    margin-top: 15px;
 }
 
