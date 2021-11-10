@@ -48,8 +48,8 @@ font-size: 120%;
 #arrival-info{
     margin-top: 100px;
     float:left;
-    margin-left: 100px;
     text-align: center;
+    width:100%;
 }
 
 #club-info h1{
@@ -58,9 +58,17 @@ font-size: 120%;
 }
 
 #club-info p{
-    margin-right: 150px;
     font-family: 'Mohave', sans-serif;
     font-size: 20px;
     margin-top: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
+
+#club-info hr{
+    border-bottom: 1px solid lightgrey;   
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 5px;
+}
