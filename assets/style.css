@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+    border: none;
+}
+
+/* logo and menu*/
+
+#logo{
+    float:left;
+    margin-left: 100px;
+    font-family: 'Cairo', sans-serif;
+    letter-spacing: 2px;
+}
+
+#menu{
+margin-right: 150px;
+font-family: 'Cairo', sans-serif;
+font-size: 120%;
+
+}
+
+#menu li{
+    list-style-type: none;
+    float:right;
+    letter-spacing: 2px;
+    margin-right: 25px;
+    
+}
+
+#menu, #logo{
+    line-height: 85px;
+}
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid black;
+}
+
