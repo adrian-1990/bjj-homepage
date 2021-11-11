@@ -67,19 +67,19 @@ font-size: 120%;
 
 #club-info{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 180px;
 }
 
 #club-info h1{
     font-family:'Cairo', sans-serif;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 #club-info p{
     font-family: 'Mohave', sans-serif;
     margin-left: 150px;
     margin-right: 150px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #club-info hr{
@@ -94,46 +94,46 @@ font-size: 120%;
     width:100%;
     height:600px;
     display: inline-flex;
-    margin-left: 100px;
 }
 
 #classes-link{
-    width:30%;
+    width:33%;
     float: left;
-    line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
-    background: url(../assets/images/welcome-picture.jpg);
-    background-size: cover;
-    height:400px;
+    margin-bottom: 100px;
+    height:500px;
+    text-align: center;
 }
 
 #timetable-link{
-    width:30%;
+    width:33%;
     float: center;
-    line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
-    background: url(../assets/images/instructor\ teaching.jpg) no-repeat center center;
-    background-size: cover;
-    height:400px;
+    margin-bottom: 100px;
+    height:500px;
+    text-align: center;
 }
 
 #contact-us-link{
-    width: 30%;
+    width: 33%;
     float: right;
-    line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
-    background: url(../assets/images/judo-throw.jpg) no-repeat center center;
-    background-size: cover;
-    height:400px;
+    margin-bottom: 100px;
+    height:500px;
+    text-align: center;
+}
+
+#page-links img{
+    height: 500px;
+    width:95%;
+    border-radius: 50px;
 }
 
 #page-links a{
     text-decoration: none;
     color: black;
     font-family: 'Mohave', sans-serif;
+    font-size: 25px;
 }
 
 #page-links a:hover{
