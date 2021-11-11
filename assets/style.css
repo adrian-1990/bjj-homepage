@@ -43,36 +43,42 @@ font-size: 120%;
     color: lightslategray;
 }
 
+/* image-section */
+
+#image-outer{
+    height:600px;
+    width:100%;
+    overflow:hidden;
+    position:relative;
+}
+
+#image-main{
+    height: 600px;
+    width:100%;
+    background:url(../assets/images/bjj\ class.jpg) no-repeat center center;
+}
+
 /* homepage */
 
 #arrival-info{
-    margin-top: 100px;
-    float:left;
+    height: 600px;
+}
+
+#club-info{
     text-align: center;
-    width:100%;
+    margin-top: 30px;
 }
 
 #club-info h1{
-    font-family: 'Cairo', sans-serif;
-    font-size: 40px;   
+    font-family:'Cairo', sans-serif;
+    font-size: 50px;
 }
 
 #club-info p{
     font-family: 'Mohave', sans-serif;
-    font-size: 20px;
-    margin-top: 15px;
     margin-left: 150px;
     margin-right: 150px;
 }
-
-
-#club-info hr{
-    border-bottom: 1px solid lightgrey;   
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 5px;
-}
-
 
 /* footer */
 
