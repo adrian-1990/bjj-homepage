@@ -4,8 +4,6 @@
     border: none;
 }
 
-* {box-sizing:border-box}
-
 
 /* logo and menu*/
 
@@ -74,3 +72,34 @@ font-size: 120%;
     margin-right: 150px;
     margin-top: 5px;
 }
+
+
+/* footer */
+
+footer{
+ height: 150px;
+ position: fixed;
+ margin-top: 875px;
+ margin-left: 850px;
+}
+
+
+.social-media > li{
+  display: inline;
+}
+
+.social-media i{
+  color: black;
+  font-size: 30px;
+  padding:5px;
+
+}
+
+.social-media i:hover{
+  border-bottom: 1px solid black;
+    color: lightslategray;
+}
+
+
+
+
