@@ -185,6 +185,7 @@ footer{
     height: 500px;
     width:50%;
     float: left;
+    border-radius: 10px;
 }
 
 #bjj p{
@@ -193,7 +194,7 @@ footer{
     float:right;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #second-section{
@@ -205,6 +206,7 @@ footer{
     height: 500px;
     width: 50%;
     float: right;
+    border-radius: 10px;
 
 }
 
@@ -214,7 +216,7 @@ footer{
     float:left;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #third-section{
@@ -226,6 +228,7 @@ footer{
     height: 500px;
     width: 50%;
     float: left;
+    border-radius: 10px;
 }
 
 #judo p{
@@ -234,7 +237,7 @@ footer{
     float:right;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
