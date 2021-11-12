@@ -195,6 +195,7 @@ footer{
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
     font-size: 20px;
+    text-align: center;
 }
 
 #second-section{
@@ -217,11 +218,13 @@ footer{
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
     font-size: 20px;
+    text-align: center;
 }
 
 #third-section{
     height:500px;
     width:100%;
+    margin-bottom: 50px;
 }
 
 #judo img{
@@ -238,6 +241,7 @@ footer{
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
     font-size: 20px;
+    text-align: center;
 }
 
 
