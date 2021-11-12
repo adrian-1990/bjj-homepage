@@ -4,6 +4,7 @@
     border: none;
 }
 
+/* landing page */
 
 /* logo and menu*/
 
@@ -46,7 +47,7 @@ font-size: 120%;
 /* image-section */
 
 #image-outer{
-    height:600px;
+    height:500px;
     width:100%;
     overflow:hidden;
     position:relative;
@@ -62,7 +63,7 @@ font-size: 120%;
 /* homepage */
 
 #arrival-info{
-    height: 600px;
+    height: 400px;
 }
 
 #club-info{
@@ -94,7 +95,7 @@ font-size: 120%;
 
 #page-links{
     width:100%;
-    height:600px;
+    height:400px;
     display: inline-flex;
     margin-bottom: 400px;
     
@@ -130,7 +131,7 @@ font-size: 120%;
 #page-links img{
     height: 500px;
     width:95%;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 #page-links a{
@@ -172,5 +173,64 @@ footer{
     border-bottom: 1px solid black;
     color: rgb(228, 58, 58);
 }
+
+/* classes page */
+
+#first-section{
+    height:500px;
+    width:100%;
+}
+
+#bjj img{
+    height: 500px;
+    width:50%;
+    float: left;
+}
+
+#bjj p{
+    height:400px;
+    width: 50%;
+    float:right;
+    font-family: 'Mohave', sans-serif;
+}
+
+#second-section{
+    height:500px;
+    width:100%;
+}
+
+#grappling-image{
+    height: 400px;
+    width: 50%;
+    float: right;
+
+}
+
+#no-gi p{
+    height: 400px;
+    width: 50%;
+    float:left;
+    font-family: 'Mohave', sans-serif;
+}
+
+#third-section{
+    height:500px;
+    width:100%;
+}
+
+#judo img{
+    height: 400px;
+    width:50%;
+    float: left;
+}
+
+#judo p{
+    height:500px;
+    width: 50%;
+    float:right;
+    font-family: 'Mohave', sans-serif;
+}
+
+
 
 
