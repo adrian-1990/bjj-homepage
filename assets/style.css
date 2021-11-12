@@ -188,10 +188,12 @@ footer{
 }
 
 #bjj p{
-    height:400px;
+    height: 500px;
     width: 50%;
     float:right;
     font-family: 'Mohave', sans-serif;
+    letter-spacing: 1px;
+    font-size: 25px;
 }
 
 #second-section{
@@ -199,18 +201,20 @@ footer{
     width:100%;
 }
 
-#grappling-image{
-    height: 400px;
+#grappling-image img{
+    height: 500px;
     width: 50%;
     float: right;
 
 }
 
-#no-gi p{
-    height: 400px;
+#grappling-image p{
+    height: 500px;
     width: 50%;
     float:left;
     font-family: 'Mohave', sans-serif;
+    letter-spacing: 1px;
+    font-size: 25px;
 }
 
 #third-section{
@@ -219,8 +223,8 @@ footer{
 }
 
 #judo img{
-    height: 400px;
-    width:50%;
+    height: 500px;
+    width: 50%;
     float: left;
 }
 
@@ -229,6 +233,8 @@ footer{
     width: 50%;
     float:right;
     font-family: 'Mohave', sans-serif;
+    letter-spacing: 1px;
+    font-size: 25px;
 }
 
 
