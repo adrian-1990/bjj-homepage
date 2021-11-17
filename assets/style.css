@@ -258,6 +258,36 @@ footer{
     margin-left: 30px;
 }
 
+/* timetable */
+
+
+
+#timetable{
+    height: 500px;
+    width: 100%;
+}
+
+#timetable-header, #timetable-body{
+    display: table-row-group;
+    vertical-align: middle;
+    box-sizing: border-box;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+#timetable-header{
+    font-family: 'Cairo', sans-serif;
+}
+
+
+#timetable-body{
+    font-family: 'Mohave', sans-serif;
+}
+
+#timetable-body td{
+    border-top: 1px solid lightslategray;
+    padding: 10px;
+}
 
 
 
