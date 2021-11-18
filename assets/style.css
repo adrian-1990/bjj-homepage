@@ -32,6 +32,7 @@ font-size: 120%;
 
 #menu, #logo{
     line-height: 85px;
+    height: 100px;
 }
 
 #menu a{
@@ -262,17 +263,32 @@ footer{
 
 
 
-#timetable{
+#outer-section{
     height: 500px;
     width: 100%;
+  margin-top: 70px;
+}
+
+#inner-section{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#outer-section h1{
+    text-align: center;
+    font-family:'Cairo', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 #timetable-header, #timetable-body{
     display: table-row-group;
     vertical-align: middle;
     box-sizing: border-box;
-    text-align: center;
     letter-spacing: 1.5px;
+    font-size: 20px;
 }
 
 #timetable-header{
