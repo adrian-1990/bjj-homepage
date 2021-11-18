@@ -155,6 +155,7 @@ font-size: 120%;
 
 footer{
     height: 50px;
+    position: bottom;
 }
 
 .social-media{
@@ -281,6 +282,7 @@ footer{
     text-align: center;
     font-family:'Cairo', sans-serif;
     letter-spacing: 1.5px;
+    margin-bottom: 10px;
 }
 
 #timetable-header, #timetable-body{
@@ -293,6 +295,7 @@ footer{
 
 #timetable-header{
     font-family: 'Cairo', sans-serif;
+    background-color: lightgray;
 }
 
 
@@ -305,5 +308,20 @@ footer{
     padding: 10px;
 }
 
+#description{
+    text-align: center;
+    letter-spacing: 1.5px;
+    margin-bottom: 50px;
+    padding:10px;
+    font-size: 18px;
+}
 
+#description h2{
+    font-family: 'Cairo', sans-serif;
+}
+
+#description p{
+    font-family: 'Mohave', sans-serif;
+
+}
 
