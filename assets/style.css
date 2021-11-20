@@ -331,11 +331,17 @@ footer{
     height:400px;
     width:100%;
    display: flex;
-   justify-content: center;
+   justify-content:space-evenly;
     font-family: 'Mohave', sans-serif;
     font-size: 30px;
     letter-spacing: 1.5px;
     margin-top: 70px;
+}
+
+#form-layout img{
+    height: 350px;
+    width: auto;
+    border-radius: 5px;
 }
 
 #form-section h1{
@@ -357,7 +363,7 @@ footer{
 }
 
 
-#fname, #lname, #email{
+#your-name, #email{
     border-bottom: 1px solid lightgray;
     text-align: center;
     display: flex;
@@ -365,7 +371,7 @@ footer{
     font-size: 15px;
 }
 
-#fname:hover, #lname:hover, #email:hover{
+#your-name:hover, #email:hover{
     border-bottom: 1px solid black;
 }
 
@@ -373,15 +379,16 @@ footer{
 #submit{
     font-family: 'Mohave', sans-serif;
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(228, 58, 58);
     color: white;
     height: 50px;
     width: 90px;
 }
 
 #submit:hover{
-    background-color:rgb(228, 58, 58) ;
-    color: white;
+    background-color: white ;
+    color: rgb(228, 58, 58);
+    border: rgb(228, 58, 58) solid 1px;
 }
 
 
@@ -392,6 +399,7 @@ footer{
     width:100%;
     display: flex;
     justify-content: center;
+    margin-top: 15px;
 }
 
 
