@@ -132,7 +132,7 @@ font-size: 120%;
 #page-links img{
     height: 500px;
     width:100%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 #page-links a{
@@ -189,7 +189,7 @@ footer{
     height: 500px;
     width:500px;
     float: left;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 #bjj p{
@@ -215,7 +215,7 @@ footer{
     height: 500px;
     width: 500px;
     float: right;
-    border-radius: 10px;
+    border-radius: 5px;
 
 }
 
@@ -243,7 +243,7 @@ footer{
     height: 500px;
     width: 500px;
     float: left;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 #judo p{
@@ -333,13 +333,13 @@ footer{
    display: flex;
    justify-content:space-evenly;
     font-family: 'Mohave', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     letter-spacing: 1.5px;
     margin-top: 70px;
 }
 
 #form-layout img{
-    height: 350px;
+    height: 380px;
     width: auto;
     border-radius: 5px;
 }
@@ -371,10 +371,15 @@ footer{
     font-size: 15px;
 }
 
-#your-name:hover, #email:hover{
+#your-name:hover, #email:hover, textarea:hover{
     border-bottom: 1px solid black;
 }
 
+#form-layout textarea{
+    height:150px;
+    width:250px;
+    font-family: 'Mohave', sans-serif;
+}
 
 #submit{
     font-family: 'Mohave', sans-serif;
