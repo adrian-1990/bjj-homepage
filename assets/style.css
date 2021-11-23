@@ -273,7 +273,6 @@ footer{
     width: 100%;
     text-align: center;
     display: flex;
-    justify-content: center;
     letter-spacing: 1px;
 }
 
@@ -419,6 +418,7 @@ footer{
     }
     #menu ul{
         float: left;
+        clear: left;
         margin-left: 100px;
     }
 
@@ -484,7 +484,8 @@ footer{
     /* timetable page */
 
     #outer-section{
-        overflow: hidden;
+        overflow: scroll;
+        flex-direction: column;
     }
 
     table{
