@@ -512,6 +512,24 @@ footer{
         display: contents;
     }
 
+    #logo h1{
+        margin-left: auto;
+        letter-spacing: 0;
+    }
+
+    #menu{
+        float: none;
+    }
+
+    #menu ul{
+        display: list-item;
+        font-size: 80%;
+    }
+
+    #arrival-info p{
+        display: contents;
+    }
+
     #page-links{
         margin-top: 15px;
     }
