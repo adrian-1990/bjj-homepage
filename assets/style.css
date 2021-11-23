@@ -198,7 +198,7 @@ footer{
     float:right;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 100%;
     text-align: center;
     margin-top: 100px;
     margin-left: 30px;
@@ -225,7 +225,7 @@ footer{
     float:left;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 100%;
     text-align: center;
     margin-top: 100px;
     margin-right: 30px;
@@ -252,7 +252,7 @@ footer{
     float:right;
     font-family: 'Mohave', sans-serif;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 100%;
     text-align: center;
     margin-top: 120px;
     margin-left: 30px;
@@ -411,7 +411,7 @@ footer{
 
 /* media queries */
 
-/* landing page */
+
 
 @media screen and (max-width:1080px) {
     #menu{
@@ -422,6 +422,8 @@ footer{
         float: left;
         margin-left: 100px;
     }
+
+    /* landing page */
 
     #image-outer{
         height:400px;
@@ -446,6 +448,38 @@ footer{
 
     #contact-us-link{
         height: 80%;
+    }
+
+    /* classes-page */
+
+    #first-section{
+        width:100%;
+        display: inline;
+    }
+
+    #bjj img, #bjj p{
+        width:48%;
+    }
+
+    #bjj p{
+        margin-right: 30px;
+        margin-left: 0;
+    }
+
+    #second-section{
+        width:100%;
+    }
+
+    #second-section img, #second-section p{
+        width:48%;
+    }
+
+    #third-section{
+        width: 100%;
+    }
+
+    #judo img, #judo p{
+        width:48%;
     }
 
 }
