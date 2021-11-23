@@ -422,6 +422,12 @@ footer{
         margin-left: 100px;
     }
 
+    #menu li{
+        float: left;
+        clear: both;
+        display: contents;
+    }
+
     /* landing page */
 
     #image-outer{
@@ -513,17 +519,14 @@ footer{
         display: contents;
     }
 
-    #logo h1{
-        margin-left: auto;
-        letter-spacing: 0;
+    #logo{
+       margin-left: 0;
+       display: contents;
+       font-size: 100%;
     }
 
-    #menu{
-        float: none;
-    }
 
     #menu ul{
-        display: list-item;
         font-size: 80%;
     }
 
@@ -533,5 +536,12 @@ footer{
 
     #page-links{
         margin-top: 15px;
+    }
+
+    /* contact us */
+
+    #form-layout{
+        display: flex;
+        flex-direction: column;
     }
 }
