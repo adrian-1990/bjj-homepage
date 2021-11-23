@@ -274,6 +274,7 @@ footer{
     text-align: center;
     display: flex;
     justify-content: center;
+    letter-spacing: 1px;
 }
 
 #outer-section h1{
@@ -345,11 +346,10 @@ footer{
 
 #form-section h1{
     font-family: 'Cairo', sans-serif;
-    font-size: 60px;
+    font-size: 350%;
     letter-spacing: 1.5px;
-    display: flex;
-   justify-content: center;
    margin-top: 100px;
+   text-align: center;
 }
 
 #form-section p{
@@ -492,6 +492,15 @@ footer{
         font-size: 100%;
     }
 
+    /* contact-us page */
+
+    #form-section{
+        width: 100%;
+    }
+
+    #form-section p{
+        font-size: 160%;
+    }
 }
 
 
