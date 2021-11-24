@@ -16,15 +16,20 @@
 }
 
 #menu{
-margin-right: 150px;
 font-family: 'Cairo', sans-serif;
 font-size: 120%;
 
 }
 
+#menu ol{
+    display: flex;
+    flex-direction: row;
+    float:right;
+    margin-right: 150px;
+}
+
 #menu li{
     list-style-type: none;
-    float:right;
     letter-spacing: 2px;
     margin-right: 25px;
     
