@@ -166,7 +166,7 @@ footer{
 }
 
 .social-media i{
-    font-size: 250%;
+    font-size: 200%;
     color: black;
     padding: 15px;
     margin-bottom: 20px;
@@ -416,7 +416,7 @@ footer{
         width: 100%;
         float: left;
     }
-    #menu ul{
+    #menu ol{
         float: left;
         clear: left;
         margin-left: 100px;
@@ -526,7 +526,7 @@ footer{
     }
 
 
-    #menu ul{
+    #menu ol{
         font-size: 80%;
     }
 
