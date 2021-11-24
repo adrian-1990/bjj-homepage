@@ -278,6 +278,7 @@ footer{
     width: 100%;
     text-align: center;
     display: flex;
+    justify-content: space-around;
     letter-spacing: 1px;
 }
 
@@ -517,6 +518,8 @@ footer{
 
 
 @media screen and (max-width:800px){
+
+    /* landing page */
     
     #arrival-info {
         height: 400px;
@@ -530,9 +533,17 @@ footer{
        font-size: 100%;
     }
 
+    #menu{
+        margin-right: 0;
+        line-height: 0;
+        height: 60px;
+        margin-top: 3%;
+    }
 
     #menu ol{
         font-size: 80%;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     #arrival-info p{
@@ -543,10 +554,20 @@ footer{
         margin-top: 15px;
     }
 
-    /* contact us */
+    /* timetable */
 
+    #inner-section{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+
+    /* contact us */
     #form-layout{
         display: flex;
         flex-direction: column;
+        overflow: hidden;
+        height: 800px;
     }
+ 
 }
