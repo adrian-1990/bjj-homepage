@@ -546,6 +546,7 @@ footer{
         font-size: 80%;
         margin-left: 0;
         margin-right: 0;
+        display: inline-block;
     }
 
     #arrival-info p{
