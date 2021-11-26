@@ -375,7 +375,7 @@ footer{
     font-size: 15px;
 }
 
-#your-name:hover, #email:hover, textarea:hover{
+#your-name:hover, #email:hover, #form-section textarea:hover{
     border-bottom: 1px solid black;
 }
 
@@ -587,7 +587,7 @@ footer{
         width: fit-content;
         display: inline-flex;
         flex-direction: column;
-        margin-top: 50%;
+        margin-top: 55%;
         text-align: center;
     }
 
