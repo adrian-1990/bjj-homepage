@@ -383,22 +383,23 @@ footer{
     height:150px;
     width:250px;
     font-family: 'Mohave', sans-serif;
+    border-bottom: 1px solid lightgray;
 }
 
 #submit{
     font-family: 'Mohave', sans-serif;
     font-size: 15px;
-    background-color: rgb(228, 58, 58);
-    color: white;
+    background-color: black;
+    color: rgb(228, 58, 58) ;
     height: 40px;
     width: 80px;
     border-radius: 5px;
 }
 
 #submit:hover{
-    background-color: white ;
-    color: rgb(228, 58, 58);
-    border: rgb(228, 58, 58) solid 1px;
+    background-color: rgb(228, 58, 58) ;
+    color: black;
+    border: black solid 1px;
 }
 
 
