@@ -12,7 +12,23 @@ I created my initial deisgn on wireframe to get a feel for the deisgn and layout
 
 Below are the design ideas I had before eventully settling on my current design.
 
-Design 1
+Design 1 (wireframe)
+Design 2 (wireframe)
+
+### Typography
+
+I chose two fonts for the page. I chose "Cairo" as my font for headings with sans-serif as back up if it does not load. For my paragraphs / timetable body / forms I have use the font "Mohave" with sans-serif as back up.
+
+* I feel these two fonts give the page a clear and modern look and both fonts compliment each other.
+
+### Color scheme
+
+The color scheme uses a minimal pallet and gets the majority of color from my images on the page. When you hover over interactive links they change color to bring your attention to them and to encourage you to explore.
+
+The colors I used were:
+* lightgrey
+* rgb(228, 58, 58)
+* black
 
 
 ## Site Structure.
@@ -40,3 +56,35 @@ This page has the timetable which displays what days and times the classes are o
 ### Contact Us
 
 This page contact a form for people who are intrested in learning more about the club / classes. There is a video at the bottom of the page showing some highlights of BJJ.
+
+## Future features
+
+* Club store
+  * I would like to create a club store where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
+
+* Burger menu
+  * I would like to create a burger menu for mobile and smaller screen sizes. I feel this would clean up the navbar and improve the overall apperance of the site.
+
+* Testimonials
+  * I would like to create a testimonial slideshow of members and there experiences.
+
+# Testing
+
+## HTML Testing
+
+## CSS Testing
+
+## Lighthouse Testing
+
+## Bugs Found
+
+# Deployment
+**To deploy the project**
+
+The site was deployed to GitHub pages. The steps to deploy the site are:
+1. In the Github repository, select the **Settings** tab.
+2. Once in the setting, select the **Pages** tab on the left hand side.
+3. Under **Source**, select the branch to master, then click **save**.
+4. Once the master branch has been selected, the page will automatically create a link for your site.
+![Github pages link (2)](https://user-images.githubusercontent.com/79532281/143587694-59346abd-5c08-4af6-bb4a-5b294b3ce4ec.png)
+
