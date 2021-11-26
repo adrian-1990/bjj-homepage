@@ -430,8 +430,6 @@ footer{
 
     #menu li{
         float: left;
-        clear: both;
-        display: contents;
     }
 
     /* landing page */
@@ -547,6 +545,10 @@ footer{
         margin-left: 0;
         margin-right: 0;
         display: inline-block;
+    }
+
+    #menu li{
+        display: contents;
     }
 
     #arrival-info p{
