@@ -4,11 +4,24 @@ The website is for a grappling club based in Cork, Ireland. The club offers Braz
 
 ## Features.
 
-The site consists of 4 pages, landing / about page, classes, timetable and contact us page.
+The site consists of 4 pages:
+* Homepage
+* Classes
+* Timetable
+* Contact-us
 
 ### Landing page.
 
-This is th edefault page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
+This is the default page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
 
 ### Classes page.
 
+This page contains the classes offered and a brief description of each class. There is an image of the class type to give a visual idea of the class.
+
+### Timetable
+
+This page has the timetable which displays what days and times the classes are on. There is a description of the classes underneath the time table so you know what to expect at each class.
+
+### Contact Us
+
+This page contact a form for people who are intrested in learning more about the club / classes. There is a video at the bottom of the page showing some highlights of BJJ.
