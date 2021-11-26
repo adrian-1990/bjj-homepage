@@ -76,6 +76,18 @@ This page contact a form for people who are intrested in learning more about the
 
 ## Lighthouse Testing
 
+### Error
+
+* When I tested my webpage page my site was failing on performence. This was because the images on the site were to large and taking a long time to upload.
+
+![lighthouse test (2)](https://user-images.githubusercontent.com/79532281/143593501-f9058ba4-41da-48b9-94ba-e3e278d56a59.png)
+
+### Solution
+
+* I resized my images through https://tinypng.com/ and replaced all the larger sized images with the new smaller sized images. This improved performence and reduced delays in the page uploading.
+
+![lighthouse bug fixed (2)](https://user-images.githubusercontent.com/79532281/143593858-521c7566-ced7-4359-a35e-cbf4f7641b7c.png)
+
 ## Bugs Found
 
 # Deployment
