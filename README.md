@@ -12,7 +12,7 @@ I created my initial deisgn on wireframe to get a feel for the deisgn and layout
 
 Below are the design ideas I had before eventully settling on my current design.
 
-Design 1.
+Design 1
 
 
 ## Site Structure.
