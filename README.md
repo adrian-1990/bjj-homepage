@@ -59,14 +59,14 @@ This page contact a form for people who are intrested in learning more about the
 
 ## Future features
 
-* Club store
-  * I would like to create a club store where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
+* Club shop
+  * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
 
 * Burger menu
   * I would like to create a burger menu for mobile and smaller screen sizes. I feel this would clean up the navbar and improve the overall apperance of the site.
 
 * Testimonials
-  * I would like to create a testimonial slideshow of members and there experiences.
+  * I would like to create a slideshow showing members testimonials and their experience.
 
 # Testing
 
@@ -88,3 +88,14 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 4. Once the master branch has been selected, the page will automatically create a link for your site.
 ![Github pages link (2)](https://user-images.githubusercontent.com/79532281/143587694-59346abd-5c08-4af6-bb4a-5b294b3ce4ec.png)
 
+# Credits
+### Content
+* The fonts came from https://fonts.google.com/
+* The icons for the footer came from https://fontawesome.com/start
+* The footer code came from the Love Running walkthrough.
+* The responsive image at the top of the README was created by http://ami.responsivedesign.is/
+
+### Media
+* All the images for the page came from https://unsplash.com/
+* The Youtube video was taken from a https://www.youtube.com/c/stuartcooperfilms
+* The photos were compressed by https://tinypng.com/
