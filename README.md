@@ -72,7 +72,11 @@ This page contact a form for people who are intrested in learning more about the
 
 ## HTML Testing
 
+I tested my HTML in https://validator.w3.org/
+
 ## CSS Testing
+
+I tested my HTML in https://jigsaw.w3.org/css-validator/
 
 ## Lighthouse Testing
 
@@ -80,7 +84,7 @@ This page contact a form for people who are intrested in learning more about the
 
 * When I tested my webpage page my site was failing on performence. This was because the images on the site were to large and taking a long time to upload.
 
-![lighthouse test (2)](https://user-images.githubusercontent.com/79532281/143593501-f9058ba4-41da-48b9-94ba-e3e278d56a59.png)
+ ![lighthouse test (2)](https://user-images.githubusercontent.com/79532281/143593501-f9058ba4-41da-48b9-94ba-e3e278d56a59.png)
 
 ### Solution
 
@@ -89,6 +93,14 @@ This page contact a form for people who are intrested in learning more about the
 ![lighthouse bug fixed (2)](https://user-images.githubusercontent.com/79532281/143593858-521c7566-ced7-4359-a35e-cbf4f7641b7c.png)
 
 ## Bugs Found
+
+### Navbar
+
+When I was resizing the page and width dropped below 1080 px the sequence of my navbar went out of sequnce.
+
+![Bug on my header page (2)](https://user-images.githubusercontent.com/79532281/143681092-0e13e548-fb35-483b-a7dc-03a09b681b90.jpg)
+
+To fix this but I amended the display to inline flex, changed the direction to reverse.
 
 # Deployment
 **To deploy the project**
