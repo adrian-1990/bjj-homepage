@@ -152,7 +152,6 @@ font-size: 120%;
     color: rgb(228, 58, 58);
 }
 
-
 /* footer */
 
 footer{
@@ -274,7 +273,7 @@ footer{
     letter-spacing: 1px;
 }
 
-#outer-section h1{
+#outer-section h2{
     text-align: center;
     font-family:'Cairo', sans-serif;
     letter-spacing: 1.5px;
@@ -380,7 +379,7 @@ footer{
     font-family: 'Mohave', sans-serif;
     font-size: 15px;
     background-color: black;
-    color: rgb(228, 58, 58) ;
+    color: white ;
     height: 40px;
     width: 80px;
     border-radius: 5px;
@@ -568,7 +567,7 @@ footer{
 
     #second-section{
         width: fit-content;
-        margin-top: 45%;
+        margin-top: 55%;
         text-align: center;
         display: flex;
         flex-direction: column;
