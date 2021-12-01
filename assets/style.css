@@ -563,14 +563,15 @@ footer{
         margin-top: 0;
         margin-right: 0;
         width:auto;
+        letter-spacing: 0;
     }
 
     #second-section{
         width: fit-content;
-        margin-top: 55%;
         text-align: center;
         display: flex;
         flex-direction: column;
+        margin-top: 50%;
     }
 
     #grappling-image img{
@@ -584,6 +585,7 @@ footer{
         margin-top: 0;
         margin-right: 0;
         width:auto;
+        letter-spacing: 0;
     }
 
     #third-section{
@@ -605,6 +607,7 @@ footer{
         margin-top: 0;
         margin-left: 0;
         width:auto;
+        letter-spacing: 0;
     }
 
     /* timetable */
