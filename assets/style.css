@@ -18,7 +18,6 @@
 #menu{
 font-family: 'Cairo', sans-serif;
 font-size: 120%;
-
 }
 
 #menu ol{
@@ -31,8 +30,7 @@ font-size: 120%;
 #menu li{
     list-style-type: none;
     letter-spacing: 2px;
-    margin-right: 25px;
-    
+    margin-right: 25px; 
 }
 
 #menu, #logo{
@@ -146,8 +144,7 @@ font-size: 120%;
     font-family: 'Mohave', sans-serif;
     font-size: 150%;
     letter-spacing: 2px;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 #page-links a:hover{
@@ -221,7 +218,6 @@ footer{
     width: 500px;
     float: right;
     border-radius: 5px;
-
 }
 
 #grappling-image p{
@@ -265,12 +261,10 @@ footer{
 
 /* timetable */
 
-
-
 #outer-section{
     height: 500px;
     width: 100%;
-  margin-top: 70px;
+    margin-top: 70px;
 }
 
 #inner-section{
@@ -301,7 +295,6 @@ footer{
     background-color: lightgray;
 }
 
-
 #timetable-body{
     font-family: 'Mohave', sans-serif;
 }
@@ -325,7 +318,6 @@ footer{
 
 #description p{
     font-family: 'Mohave', sans-serif;
-
 }
 
 /* contact-us */
@@ -353,8 +345,8 @@ footer{
     font-family: 'Cairo', sans-serif;
     font-size: 350%;
     letter-spacing: 1.5px;
-   margin-top: 100px;
-   text-align: center;
+    margin-top: 100px;
+    text-align: center;
 }
 
 #form-section p{
@@ -362,8 +354,8 @@ footer{
     font-size: 30px;
     letter-spacing: 1.5px;
     display: flex;
-   justify-content: center;
-   text-align: center;
+    justify-content: center;
+    text-align: center;
 }
 
 
@@ -402,7 +394,6 @@ footer{
     border: black solid 1px;
 }
 
-
 /* video */
 
 #video-section{
@@ -413,10 +404,7 @@ footer{
     margin-top: 15px;
 }
 
-
 /* media queries */
-
-
 
 @media screen and (max-width:1080px) {
     #menu{
@@ -515,7 +503,6 @@ footer{
     }
 }
 
-
 @media screen and (max-width:800px){
 
     /* landing page */
@@ -567,7 +554,6 @@ footer{
         display: inline-flex;
         flex-direction: column;
         text-align: center;
-        
     }
 
     #bjj img{
@@ -624,8 +610,6 @@ footer{
         margin-left: 0;
         width:auto;
     }
-
-
 
     /* timetable */
 
