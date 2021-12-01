@@ -161,8 +161,6 @@ footer{
     justify-content: center;
 }
 
-
-
 .social-media > li {
     display: inline;
 }
@@ -262,7 +260,7 @@ footer{
 /* timetable */
 
 #outer-section{
-    height: 500px;
+    height: 400px;
     width: 100%;
     margin-top: 70px;
 }
@@ -551,9 +549,8 @@ footer{
 
     #first-section{
         width: fit-content;
-        display: inline-flex;
-        flex-direction: column;
         text-align: center;
+        display: flex;
     }
 
     #bjj img{
@@ -571,10 +568,10 @@ footer{
 
     #second-section{
         width: fit-content;
-        display: inline-flex;
-        flex-direction: column;
-        margin-top: 55%;
+        margin-top: 45%;
         text-align: center;
+        display: flex;
+        flex-direction: column;
     }
 
     #grappling-image img{
@@ -592,10 +589,10 @@ footer{
 
     #third-section{
         width: fit-content;
-        display: inline-flex;
-        flex-direction: column;
         text-align: center;
-        margin-top: 5%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 16%;
     }
 
     #judo img{
