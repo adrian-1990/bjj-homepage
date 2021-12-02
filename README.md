@@ -39,7 +39,7 @@ The site consists of four pages:
 * Timetable
 * Contact-us
 
-The navbar and footer will be present on all pages. The navbar will allow for the user to navigate the site easily and allow them to navigate to the differant sections of the page. The footer will contact all the links to the clubs social media account if they want to connect that way.
+The navbar and footer will be present on all pages. The navbar will allow for the user to navigate the site easily and allow them to navigate to the differant sections of the page. The footer will contain all the links to the clubs social media account if they want to connect that way.
 
 ### Landing page.
 
@@ -76,7 +76,7 @@ I tested my HTML in https://validator.w3.org/
 
 ## CSS Testing
 
-I tested my HTML in https://jigsaw.w3.org/css-validator/
+I tested my CSS in https://jigsaw.w3.org/css-validator/
 
 ## Lighthouse Testing
 
@@ -96,7 +96,7 @@ I tested my HTML in https://jigsaw.w3.org/css-validator/
 
 ### Navbar
 
-When I was resizing the page and width dropped below 1080 px the sequence of my navbar went out of sequnce.
+When I was resizing the page and width dropped below 1080 px the sequence of my navbar went out of sequence.
 
 ![Bug on my header page (2)](https://user-images.githubusercontent.com/79532281/143681092-0e13e548-fb35-483b-a7dc-03a09b681b90.jpg)
 
@@ -118,8 +118,11 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 * The icons for the footer came from https://fontawesome.com/start
 * The footer code came from the Love Running walkthrough.
 * The responsive image at the top of the README was created by http://ami.responsivedesign.is/
+* The footer code and icons was taken from the love running project.
+* The text on the BJJ classes page was found here https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
+* The text for the Judo classes page was found here https://en.wikipedia.org/wiki/Judo
 
 ### Media
 * All the images for the page came from https://unsplash.com/
 * The Youtube video was taken from a https://www.youtube.com/c/stuartcooperfilms
-* The photos were compressed by https://tinypng.com/
+* The photos were compressed using https://tinypng.com/
