@@ -404,19 +404,39 @@ footer{
 /* media queries */
 
 @media screen and (max-width:1080px) {
-    #menu{
-        width: 100%;
-        float: left;
-    }
-    #menu ol{
-        float: left;
-        clear: left;
-        margin-left: 100px;
-    }
+    /* navbar */
 
-    #menu li{
-        float: left;
+    header{
+        height: 135px;
     }
+    #logo{
+        margin-left: 0;
+        font-size: 200%;
+        width: 100%;
+        text-align: center;
+     }
+ 
+     #menu{
+         margin-right: 0;
+         line-height: 0;
+         height: 60px;
+         margin-top: 3%;
+         width: 100%;
+         font-size: 125%;
+     }
+ 
+     #menu ol{
+         font-size: 80%;
+         margin-left: 0;
+         margin-right: 0;
+         display: inline-flex;
+         width: 100%;
+         justify-content: space-evenly;
+     }
+ 
+     #menu li{
+         display: contents;
+     }
 
     /* landing page */
 
@@ -503,37 +523,6 @@ footer{
 @media screen and (max-width:800px){
 
     /* landing page */
-
-    /* navbar */
-    
-    #logo{
-        margin-left: 0;
-        font-size: 200%;
-        width: 100%;
-        text-align: center;
-     }
- 
-     #menu{
-         margin-right: 0;
-         line-height: 0;
-         height: 60px;
-         margin-top: 3%;
-         width: 100%;
-         font-size: 125%;
-     }
- 
-     #menu ol{
-         font-size: 80%;
-         margin-left: 0;
-         margin-right: 0;
-         display: inline-flex;
-         width: 100%;
-         justify-content: space-evenly;
-     }
- 
-     #menu li{
-         display: contents;
-     }
 
     #arrival-info {
         height: 400px;
