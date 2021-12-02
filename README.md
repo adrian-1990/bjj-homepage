@@ -12,8 +12,15 @@ I created my initial deisgn on wireframe to get a feel for the deisgn and layout
 
 Below are the design ideas I had before eventully settling on my current design.
 
-Design 1 (wireframe)
-Design 2 (wireframe)
+#### Design 1 
+![BJJ Wireframe layout 1](https://user-images.githubusercontent.com/79532281/144373892-66e070a6-c7b5-4075-8c54-57059cc16ce0.png)
+
+#### Design 2 
+![BJJ Wireframe layout 2](https://user-images.githubusercontent.com/79532281/144374230-100d65fc-e90c-42dd-a2e9-ad75e774f00b.png)
+![BJJ wireframe Classes](https://user-images.githubusercontent.com/79532281/144374252-b48502f8-6f50-4ebe-89de-fd9e1b144753.png)
+![BJJ Wireframe Timetable](https://user-images.githubusercontent.com/79532281/144374269-d93772fc-d673-44ef-b312-cdf3dfc2974c.png)
+![BJJ Wireframe Contact Us](https://user-images.githubusercontent.com/79532281/144374289-f6c1fdb0-8041-4fc8-90f3-4dcb24d0ba8c.png)
+
 
 ### Typography
 
