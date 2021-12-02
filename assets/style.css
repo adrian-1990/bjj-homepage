@@ -550,10 +550,11 @@ footer{
         width: fit-content;
         text-align: center;
         display: flex;
+        height: 525px;
     }
 
     #bjj img{
-        height: 80%;
+        height: 60%;
         width: 80%;
         float: none;
     }
@@ -571,7 +572,7 @@ footer{
         text-align: center;
         display: flex;
         flex-direction: column;
-        margin-top: 50%;
+        height: 525px;
     }
 
     #grappling-image img{
@@ -593,7 +594,7 @@ footer{
         text-align: center;
         display: flex;
         flex-direction: column;
-        margin-top: 16%;
+        height:525px;
     }
 
     #judo img{
