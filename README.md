@@ -96,6 +96,8 @@ There is a description of the classes underneath the timetable so the user knows
 
 New user can find out about the times classes are running and return users can learn about the advance classes as the progress on their grappling journey. This section will also provide all the info required for guests who wish to visit the club. This should give a positive experience for new and return users.
 
+I used [W3School Table](https://www.w3schools.com/html/html_tables.asp) for guidance when creating the timetable.
+
 
 ### Contact Us
 
@@ -195,15 +197,16 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 
 # Credits
 ### Content
-* The fonts came from [Google Fonts](https://fonts.google.com/)
-* The icons for the footer came from [Fontawesome](https://fontawesome.com/start)
+* The fonts came from [Google Fonts](https://fonts.google.com/).
+* The icons for the footer came from [Fontawesome](https://fontawesome.com/start).
 * The footer code came from the Love Running walkthrough.
-* The responsive image at the top of the README was created by [Am I responsive](http://ami.responsivedesign.is/)
+* The responsive image at the top of the README was created by [Am I responsive](http://ami.responsivedesign.is/).
 * The footer code and icons was taken from the love running project.
-* The text on the BJJ classes came from [Wiki BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
-* The text for the Judo classes came from [Wiki Judo](https://en.wikipedia.org/wiki/Judo)
+* The text on the BJJ classes came from [Wiki BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu).
+* The text for the Judo classes came from [Wiki Judo](https://en.wikipedia.org/wiki/Judo).
+* The timetable was created with guidance from [W3Schools](https://www.w3schools.com/html/html_tables.asp).
 
 ### Media
 * All the images for the page came from [Unsplash](https://unsplash.com/)
-* The Youtube video was taken from a [Youtube](https://www.youtube.com/c/stuartcooperfilms)
+* The Youtube video was taken from [Youtube](https://www.youtube.com/c/stuartcooperfilms)
 * The photos were compressed using [Tinypng](https://tinypng.com/)
