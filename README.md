@@ -2,9 +2,12 @@
 
 The website is for a grappling club based in Cork, Ireland. The club offers Brazilian Jiu Jitsu(BJJ), No-Gi & Judo classes.Users of this site will be able to find out a little bit about all classes offered, when the classes are on(timetable) and get in contact to arrange a class for themselves.The site is aimed for anybody who has an interest in learning BJJ or judo and learn self defence, get fit and make new frinds.
 
-You can view the live site here. [Cork Grappling Academy](https://adrian-1990.github.io/bjj-homepage/)
+You can view the live site here [Cork Grappling Academy](https://adrian-1990.github.io/bjj-homepage/)
 
-![responsive (2)](https://user-images.githubusercontent.com/79532281/143540733-2d2d2aee-a63f-4626-bfd2-23e69c409fdf.png)
+You can view the respository here [Github](https://github.com/adrian-1990/bjj-homepage)
+
+![responsive](https://user-images.githubusercontent.com/79532281/144610386-e468e6af-0da0-405e-8112-a6cc9dc04e5e.png)
+
 
 ## Design process
 
@@ -40,8 +43,8 @@ The colors I used were:
 
 ### Imagery
 
-All the images used on the site were taken from https://unsplash.com/s/photos/judo. This site allows you to download images for free. I wanted the images to display people practicing BJJ / No-gi grappling so visitors to the site would get an idea of what the club offered and encourage a return visit to learn more.
-The images used on the site were quite large so I compressed them using https://tinypng.com/.
+All the images used on the site were taken from [Unsplash](https://unsplash.com/s/photos/judo). This site allows you to download images for free. I wanted the images to display people practicing BJJ / No-gi grappling so visitors to the site would get an idea of what the club offered and encourage a return visit to learn more.
+The images used on the site were quite large so I compressed them using [Tinypng](https://tinypng.com/).
 
 
 ## Site Structure.
@@ -58,9 +61,9 @@ The navbar and footer will be present on all pages. This will allow the user to 
 
 This is the default page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
 
-When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers.
+When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers. As a first time visitor you will have how to navigate the site and the image is relevent to what the club offer and provide a positive user experience.
 
-![nav-bar](https://user-images.githubusercontent.com/79532281/144599576-71537685-6937-498e-b5f6-1abd305b8a7e.png)
+![welcome-section](https://user-images.githubusercontent.com/79532281/144607551-80567aee-3154-4735-8fb3-ec91756f90a9.png)
 
 
 As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It has a description of the facilites, instructors and the club ethos.
@@ -82,11 +85,29 @@ This page contains the classes offered and a brief description of each class. Th
 
 ### Timetable
 
-This page has the timetable which displays what days and times the classes are on. There is a description of the classes underneath the time table so you know what to expect at each class.
+This page has the timetable which displays what days and times the classes are on.
+
+![timetable](https://user-images.githubusercontent.com/79532281/144608252-9ff3a960-2fad-49fb-bba2-a6349b7bc462.png)
+
+
+There is a description of the classes underneath the timetable so the user knows what is expected in each class.
+
+![timetable-classes](https://user-images.githubusercontent.com/79532281/144608445-4e4ee297-8aa4-4ef1-8d91-299a18fd2f5a.png)
+
+New user can find out about the times classes are running and return users can learn about the advance classes as the progress on their grappling journey. This section will also provide all the info required for guests who wish to visit the club. This should give a positive experience for new and return users.
+
 
 ### Contact Us
 
-This page contact a form for people who are intrested in learning more about the club / classes. There is a video at the bottom of the page showing some highlights of BJJ.
+Users can complete the form and make contact with the club to ask whatever questions the have. 
+
+![contact-form](https://user-images.githubusercontent.com/79532281/144609682-b6d0f5e8-b15b-4c0c-9aff-d8c85f16857c.png)
+
+A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will provide a positive experience for the user and encourage them to sign up.
+
+![video](https://user-images.githubusercontent.com/79532281/144610074-06eaa031-e74d-40b9-9a42-43cb03b03f6b.png)
+
+
 
 ## Future features
 
@@ -103,7 +124,7 @@ Below are a list of features I would like to add to the site to improve user exp
 
 # Technologies Used
 
-* https://balsamiq.com/
+* [Balsamiq](https://balsamiq.com/)
   * Balsamiq were used to create the wireframes
 
 * HTML
@@ -112,27 +133,27 @@ Below are a list of features I would like to add to the site to improve user exp
 * CSS
   * This was used to style the website
 
-* https://fontawesome.com/
+* [Font Awesome](https://fontawesome.com/)
   * Font awesome was used for theicon images on the footer
 
-* https://github.com/
+* [Github](https://github.com/)
   * This was used as the host site for the code for the website
 
- * https://tinypng.com/
+ * [Tinypng](https://tinypng.com/)
    * This was used to compress the images used
 
-* https://developer.chrome.com/docs/devtools/
+* [Google Dev Tools](https://developer.chrome.com/docs/devtools/)
   * This was used to test responsiveness of the page and test out changes before adding to CSS
 
 # Testing
 
 ## HTML Testing
 
-I tested my HTML in https://validator.w3.org/
+I tested my HTML in [HTML Validator](https://validator.w3.org/)
 
 ## CSS Testing
 
-I tested my CSS in https://jigsaw.w3.org/css-validator/
+I tested my CSS in [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ## Lighthouse Testing
 
@@ -174,15 +195,15 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 
 # Credits
 ### Content
-* The fonts came from https://fonts.google.com/
-* The icons for the footer came from https://fontawesome.com/start
+* The fonts came from [Google Fonts](https://fonts.google.com/)
+* The icons for the footer came from [Fontawesome](https://fontawesome.com/start)
 * The footer code came from the Love Running walkthrough.
-* The responsive image at the top of the README was created by http://ami.responsivedesign.is/
+* The responsive image at the top of the README was created by [Am I responsive](http://ami.responsivedesign.is/)
 * The footer code and icons was taken from the love running project.
-* The text on the BJJ classes came from https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
-* The text for the Judo classes came from https://en.wikipedia.org/wiki/Judo
+* The text on the BJJ classes came from [Wiki BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
+* The text for the Judo classes came from [Wiki Judo](https://en.wikipedia.org/wiki/Judo)
 
 ### Media
-* All the images for the page came from https://unsplash.com/
-* The Youtube video was taken from a https://www.youtube.com/c/stuartcooperfilms
-* The photos were compressed using https://tinypng.com/
+* All the images for the page came from [Unsplash](https://unsplash.com/)
+* The Youtube video was taken from a [Youtube](https://www.youtube.com/c/stuartcooperfilms)
+* The photos were compressed using [Tinypng](https://tinypng.com/)
