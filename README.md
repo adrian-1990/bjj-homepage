@@ -8,7 +8,8 @@ You can view the live site here. [Cork Grappling Academy](https://adrian-1990.gi
 
 ## Design process
 
-I created my initial deisgn on wireframe to get a feel for the deisgn and layout. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages.
+I created my initial deisgn on wireframe to get a feel for the deisgn and layout. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages. 
+I wanted the site to be easy to use for first time visitors but also to encourage return visits. I wanted to site to have easy navigation on PC, tablets and mobiles for first time visitors and if I'm a return visitor and I'm interested in the club I can make contact through social media.
 
 Below are the design ideas I had before eventully settling on my current design.
 
@@ -24,9 +25,9 @@ Below are the design ideas I had before eventully settling on my current design.
 
 ### Typography
 
-I chose two fonts for the page. I chose "Cairo" as my font for headings with sans-serif as back up if it does not load. For my paragraphs / timetable body / forms I have use the font "Mohave" with sans-serif as back up.
+I chose two fonts for the page. I chose **"Cairo"** as my font for headings with sans-serif as back up if it does not load. For my paragraphs / timetable body / forms I have use the font **"Mohave"** with sans-serif as back up.
 
-* I feel these two fonts give the page a clear and modern look and both fonts compliment each other.
+* I feel these two fonts give the page a clean and modern look and provide a positive user experience.
 
 ### Color scheme
 
@@ -37,6 +38,11 @@ The colors I used were:
 * rgb(228, 58, 58)
 * black
 
+### Imagery
+
+All the images used on the site were taken from https://unsplash.com/s/photos/judo. This site allows you to download images for free. I wanted the images to display people practicing BJJ / No-gi grappling so visitors to the site would get an idea of what the club offered and encourage a return visit to learn more.
+The images used on the site were quite large so I compressed them using https://tinypng.com/.
+
 
 ## Site Structure.
 
@@ -46,11 +52,17 @@ The site consists of four pages:
 * Timetable
 * Contact-us
 
-The navbar and footer will be present on all pages. The navbar will allow for the user to navigate the site easily and allow them to navigate to the differant sections of the page. The footer will contain all the links to the clubs social media account if they want to connect that way.
+The navbar and footer will be present on all pages. This will allow the user to easily navigate the site and to get in contact via social media.
 
 ### Landing page.
 
 This is the default page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
+
+When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers.
+
+As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
+
+At the end of the page is the footer with the links to our social media links. Again these change color when hover over to encourage interaction.
 
 ### Classes page.
 
@@ -65,6 +77,8 @@ This page has the timetable which displays what days and times the classes are o
 This page contact a form for people who are intrested in learning more about the club / classes. There is a video at the bottom of the page showing some highlights of BJJ.
 
 ## Future features
+
+Below are a list of features I would like to add to the site to improve user experience and encourage return visits to the site.
 
 * Club shop
   * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
@@ -110,6 +124,10 @@ When I was resizing the page and width dropped below 1080 px the sequence of my 
 To fix this but I amended the display to inline flex, changed the direction to reverse.
 
 # Deployment
+
+### Project Creation
+
+The project was created by using Github and Git pages. I created the code through Git pages and then backed them up to Github. This allowed me to create a live site via Github.
 **To deploy the project**
 
 The site was deployed to GitHub pages. The steps to deploy the site are:
@@ -126,8 +144,8 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 * The footer code came from the Love Running walkthrough.
 * The responsive image at the top of the README was created by http://ami.responsivedesign.is/
 * The footer code and icons was taken from the love running project.
-* The text on the BJJ classes page was found here https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
-* The text for the Judo classes page was found here https://en.wikipedia.org/wiki/Judo
+* The text on the BJJ classes came from https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
+* The text for the Judo classes came from https://en.wikipedia.org/wiki/Judo
 
 ### Media
 * All the images for the page came from https://unsplash.com/
