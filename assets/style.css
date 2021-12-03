@@ -280,23 +280,23 @@ footer{
     margin-bottom: 10px;
 }
 
-#timetable-header, #timetable-body{
+.timetable-header, .timetable-body{
     display: table-row-group;
     vertical-align: middle;
     box-sizing: border-box;
     font-size: 100%;
 }
 
-#timetable-header{
+.timetable-header{
     font-family: 'Cairo', sans-serif;
     background-color: lightgray;
 }
 
-#timetable-body{
+.timetable-body{
     font-family: 'Mohave', sans-serif;
 }
 
-#timetable-body td{
+.timetable-body td{
     border-top: 1px solid lightslategray;
     padding: 10px;
 }
