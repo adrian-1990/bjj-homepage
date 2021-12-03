@@ -63,7 +63,10 @@ When you land on the page you first see the navbar and a large image of people t
 ![nav-bar](https://user-images.githubusercontent.com/79532281/144599576-71537685-6937-498e-b5f6-1abd305b8a7e.png)
 
 
-As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It has a description of the facilites, instructors and the club offers an inclusive enviroment for anybody to join.
+As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It has a description of the facilites, instructors and the club ethos.
+
+![welcome-text](https://user-images.githubusercontent.com/79532281/144599886-4dab3c38-dfb1-4c9e-9f66-fdf46d2cb465.png)
+
 
 As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
 
