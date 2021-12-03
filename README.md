@@ -173,13 +173,19 @@ I tested my CSS in [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ## Bugs Found
 
-### Navbar
+### Video
 
-When I was resizing the page and width dropped below 1080 px the sequence of my navbar went out of sequence.
+When viewing the video on the live site the video was not appearing.
 
-![Bug on my header page (2)](https://user-images.githubusercontent.com/79532281/143681092-0e13e548-fb35-483b-a7dc-03a09b681b90.jpg)
+![youtube video](https://user-images.githubusercontent.com/79532281/144613466-c504655d-1929-4640-9a22-6beac8da54e4.png)
 
-To fix this but I amended the display to inline flex, changed the direction to reverse.
+I searched Google and found the issue to be in the link I copied over. The link had the video as /watch which is incorrect when embedding into code.
+
+![youtube watch](https://user-images.githubusercontent.com/79532281/144613626-b4a10fde-857d-45f4-9062-ce7e8c8feb22.png)
+
+I amended the link to /embed and this fixed the error. Video is now working on the site.
+
+![youtube embed](https://user-images.githubusercontent.com/79532281/144614218-7d72728d-c246-46f3-a0c7-36eacb4aa783.png)
 
 # Deployment
 
