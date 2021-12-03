@@ -152,11 +152,12 @@ Below are a list of features I would like to add to the site to improve user exp
 ## HTML Testing
 
 I tested my HTML in [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-silver-locust-8xl5772n.ws-eu21.gitpod.io%2Findex.html)
-All pages come back with no errors or warnings.
+All errors in my code were fixed and now passes all tests.
 
 ## CSS Testing
 
-I tested my CSS in [CSS Validator](https://jigsaw.w3.org/css-validator/)
+I tested my CSS in [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrian-1990.github.io%2Fbjj-homepage%2Fassets%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+All errors found in my CSS were fixed and now passes all tests.
 
 ## Lighthouse Testing
 
