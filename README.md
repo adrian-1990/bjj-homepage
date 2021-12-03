@@ -151,7 +151,8 @@ Below are a list of features I would like to add to the site to improve user exp
 
 ## HTML Testing
 
-I tested my HTML in [HTML Validator](https://validator.w3.org/)
+I tested my HTML in [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-silver-locust-8xl5772n.ws-eu21.gitpod.io%2Findex.html)
+All pages come back with no errors or warnings.
 
 ## CSS Testing
 
