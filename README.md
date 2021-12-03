@@ -96,10 +96,33 @@ Below are a list of features I would like to add to the site to improve user exp
   * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
 
 * Burger menu
-  * I would like to create a burger menu for mobile and smaller screen sizes. I feel this would clean up the navbar and improve the overall apperance of the site.
+  * I would like to create a burger menu for mobile and smaller screen sizes. I feel this would clean up the navbar and improve the user experience.
 
 * Testimonials
   * I would like to create a slideshow showing members testimonials and their experience.
+
+# Technologies Used
+
+* https://balsamiq.com/
+  * Balsamiq were used to create the wireframes
+
+* HTML
+  * This was the main language used in creating the website
+
+* CSS
+  * This was used to style the website
+
+* https://fontawesome.com/
+  * Font awesome was used for theicon images on the footer
+
+* https://github.com/
+  * This was used as the host site for the code for the website
+
+ * https://tinypng.com/
+   * This was used to compress the images used
+
+* https://developer.chrome.com/docs/devtools/
+  * This was used to test responsiveness of the page and test out changes before adding to CSS
 
 # Testing
 
