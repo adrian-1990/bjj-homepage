@@ -59,10 +59,16 @@ The navbar and footer will be present on all pages. This will allow the user to 
 This is the default page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
 
 When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers.
+![nav-bar](https://user-images.githubusercontent.com/79532281/144599576-71537685-6937-498e-b5f6-1abd305b8a7e.png)
+
+
+As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It has a description of the facilites, instructors and the club offers an inclusive enviroment for anybody to join.
 
 As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
+![page-links](https://user-images.githubusercontent.com/79532281/144599615-9a8a0d92-f975-4aa9-be9c-52afad94b9ff.png)
 
 At the end of the page is the footer with the links to our social media links. Again these change color when hover over to encourage interaction.
+![footer](https://user-images.githubusercontent.com/79532281/144599646-200be01c-5074-410b-86a8-42b347a85c8d.png)
 
 ### Classes page.
 
@@ -127,7 +133,7 @@ To fix this but I amended the display to inline flex, changed the direction to r
 
 ### Project Creation
 
-The project was created by using Github and Git pages. I created the code through Git pages and then backed them up to Github. This allowed me to create a live site via Github.
+The project was created by using Github and Gitpod pages. I created the code through Gitpod pages and then backed them up to Github. This allowed me to create a live site via Github.
 **To deploy the project**
 
 The site was deployed to GitHub pages. The steps to deploy the site are:
