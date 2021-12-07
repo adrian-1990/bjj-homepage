@@ -1,6 +1,6 @@
 # Cork Grappling Academy
 
-The website is for a grappling club based in Cork, Ireland. The club offers Brazilian Jiu Jitsu(BJJ), No-Gi & Judo classes.Users of this site will be able to find out a little bit about all classes offered, when the classes are on(timetable) and get in contact to arrange a class for themselves.The site is aimed for anybody who has an interest in learning BJJ or judo and learn self defence, get fit and make new frinds.
+The website is for a grappling club based in Cork, Ireland. The club offers Brazilian Jiu Jitsu(BJJ), No-Gi & Judo classes. Users of this site will be able to find out a little bit about all classes offered, when the classes are on(timetable) and get in contact to arrange a class.The site is aimed for anybody who has an interest in learning BJJ, judo, learn self defence, get fit and make new frinds.
 
 You can view the live site here [Cork Grappling Academy](https://adrian-1990.github.io/bjj-homepage/)
 
@@ -12,7 +12,7 @@ You can view the respository here [Github](https://github.com/adrian-1990/bjj-ho
 ## Design process
 
 I created my initial deisgn on wireframe to get a feel for the deisgn and layout. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages. 
-I wanted the site to be easy to use for first time visitors but also to encourage return visits. I wanted to site to have easy navigation on PC, tablets and mobiles for first time visitors and if I'm a return visitor and I'm interested in the club I can make contact through social media.
+I wanted the site to be easy to use for first time visitors but also to encourage return visits. I want the to site to have easy navigation on PC, tablets and mobiles for first time visitors and if I'm a return visitor and I'm interested in the club I can make contact through social media.
 
 Below are the design ideas I had before eventully settling on my current design.
 
@@ -34,7 +34,7 @@ I chose two fonts for the page. I chose **"Cairo"** as my font for headings with
 
 ### Color scheme
 
-The color scheme uses a minimal pallet and gets the majority of color from my images on the page. When you hover over interactive links they change color to bring your attention to them and to encourage you to explore.
+The color scheme uses a minimal pallet and gets the majority of color from my images on the page. When you hover over interactive links they change color to bring your attention to them and encourage you to explore.
 
 The colors I used were:
 * lightgrey
@@ -82,6 +82,16 @@ At the end of the page is the footer with the links to our social media links. A
 ### Classes page.
 
 This page contains the classes offered and a brief description of each class. There is an image of the class type to give a visual idea of the classes.
+
+The first class displayed is Brazilian Jiujitsu (BJJ). I wanted to user to get a little bit of the history of the art, what the key principles are and who teaches the classes.
+
+![BJJ class](https://user-images.githubusercontent.com/79532281/144985734-a919b243-6824-4514-9bda-00916c2d53dc.png)
+
+The next section is the No-gi grappling section. This section informs the user of the differances between No-gi grappling and BJJ / Judo.
+
+The final section is Judo. This section has a brief description of the history of Judo, the key principles behind Judo and who will teach the classes.
+
+This section provides the user with a overview of the classes offered at the club.
 
 ### Timetable
 
