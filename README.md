@@ -89,9 +89,13 @@ The first class displayed is Brazilian Jiujitsu (BJJ). I wanted to user to get a
 
 The next section is the No-gi grappling section. This section informs the user of the differances between No-gi grappling and BJJ / Judo.
 
+![No-gi class](https://user-images.githubusercontent.com/79532281/144987799-f9616cdd-f703-4f34-86ce-ce00f744f0cf.png)
+
 The final section is Judo. This section has a brief description of the history of Judo, the key principles behind Judo and who will teach the classes.
 
-This section provides the user with a overview of the classes offered at the club.
+![Judo class](https://user-images.githubusercontent.com/79532281/144987752-028c38d7-365c-430c-856c-a4db5026b5e5.png)
+
+This section provides the user with an overview of the classes offered at the club.
 
 ### Timetable
 
