@@ -28,13 +28,13 @@ Below are the design ideas I had before eventully settling on my current design.
 
 ### Typography
 
-I chose two fonts for the page. I chose **"Cairo"** as my font for headings with sans-serif as back up if it does not load. For my paragraphs / timetable body / forms I have use the font **"Mohave"** with sans-serif as back up.
+I chose two fonts for the site. I chose **"Cairo"** as my font for headings with sans-serif as back up. For my paragraphs / timetable body / forms I have use the font **"Mohave"** with sans-serif as back up.
 
-* I feel these two fonts give the page a clean and modern look and provide a positive user experience.
+* These two fonts give the page a clean and modern look and provide a positive user experience.
 
 ### Color scheme
 
-The color scheme uses a minimal pallet and gets the majority of color from my images on the page. When you hover over interactive links they change color to bring your attention to them and encourage you to explore.
+The color scheme uses a minimal pallet and gets the majority of color from the images on the page. When you hover over an interactive link they change color to catch your attention and encourage you to explore the site by clicking the link.
 
 The colors I used were:
 * lightgrey
@@ -165,8 +165,9 @@ Below are a list of features I would like to add to the site to improve user exp
 
 ## HTML Testing
 
-I tested my HTML in [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-silver-locust-8xl5772n.ws-eu21.gitpod.io%2Findex.html)
-All errors in my code were fixed and now passes all tests.
+I tested my HTML in HTML Validator. I fixed all errors appearing in the code and now all the site passes the test.
+
+![HTML validator pass](https://user-images.githubusercontent.com/79532281/145018193-62978b6d-8736-4f17-a2f5-06d59ea37c50.png)
 
 ## CSS Testing
 
