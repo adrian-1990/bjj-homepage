@@ -119,7 +119,7 @@ Users can complete the form and make contact with the club to ask whatever quest
 
 ![contact-form](https://user-images.githubusercontent.com/79532281/144609682-b6d0f5e8-b15b-4c0c-9aff-d8c85f16857c.png)
 
-A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will provide a positive experience for the user and encourage them to sign up.
+A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will show the benefits training BJJ can have and encourage the user to get in contact.
 
 ![video](https://user-images.githubusercontent.com/79532281/144610074-06eaa031-e74d-40b9-9a42-43cb03b03f6b.png)
 
@@ -171,8 +171,9 @@ I tested my HTML in HTML Validator. I fixed all errors appearing in the code and
 
 ## CSS Testing
 
-I tested my CSS in [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrian-1990.github.io%2Fbjj-homepage%2Fassets%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-All errors found in my CSS were fixed and now passes all tests.
+I tested my CSS in CSS Validator All errors found in my CSS were fixed and now passes all tests.
+
+![CSS validator pass](https://user-images.githubusercontent.com/79532281/145210812-26f0bfae-e5e8-4c39-bb70-7ea5269bac83.png)
 
 ## Lighthouse Testing
 
