@@ -446,6 +446,7 @@ footer{
          display: inline-flex;
          width: 100%;
          justify-content: space-evenly;
+         height: 10px;
      }
  
      #menu li{
