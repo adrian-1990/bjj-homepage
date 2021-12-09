@@ -1,6 +1,6 @@
 # Cork Grappling Academy
 
-The website is for a grappling club based in Cork, Ireland. The club offers Brazilian Jiu Jitsu(BJJ), No-Gi & Judo classes. Users of this site will be able to find out a little bit about all classes offered, when the classes are on(timetable) and get in contact to arrange a class.The site is aimed for anybody who has an interest in learning BJJ, judo, self defence and getting fit and making new friends.
+The website is for a grappling club based in Cork, Ireland. The club offers Brazilian Jiu Jitsu(BJJ), No-Gi & Judo classes. Users of this site will be able to find out a little bit about all classes offered, when the classes are on(timetable) and get in contact to arrange a class. The site is aimed for anybody who has an interest in learning BJJ, judo, self defence and getting fit and making new friends.
 
 You can view the live site here [Cork Grappling Academy](https://adrian-1990.github.io/bjj-homepage/)
 
@@ -12,7 +12,7 @@ You can view the respository here [Github](https://github.com/adrian-1990/bjj-ho
 ## Design process
 
 I created my initial deisgn on wireframe to get a feel for the deisgn and layout. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages. 
-I wanted the site to be easy to use for first time visitors but also to encourage return visits. I want the to site to have easy navigation on PC, tablets and mobiles for first time visitors and if I'm a return visitor and I'm interested in the club I can make contact through social media.
+I wanted the site to be easy to use for first time visitors but also to encourage return visits. I want the to site to have easy navigation and for users to easily get in contact via email ro social media.
 
 Below are the design ideas I had before eventully settling on my current design.
 
@@ -50,6 +50,7 @@ The images used on the site were quite large so I compressed them using [Tinypng
 ## Site Structure.
 
 The site consists of four pages:
+
 * Homepage
 * Classes
 * Timetable
@@ -59,23 +60,23 @@ The navbar and footer will be present on all pages. This will allow the user to 
 
 ### Landing page.
 
-This is the default page when people visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. 3 links to the other pages on the site and the footer at the end.
+This is the default page when visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. Three links to the other pages on the site and the footer at the end.
 
-When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers. As a first time visitor you will have how to navigate the site and the image is relevent to what the club offer and provide a positive user experience.
+* When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers. As a first time visitor you will have how to navigate the site and the image is relevent to what the club offer and provide a positive user experience.
 
 ![welcome-section](https://user-images.githubusercontent.com/79532281/144607551-80567aee-3154-4735-8fb3-ec91756f90a9.png)
 
 
-As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It has a description of the facilites, instructors and the club ethos.
+* As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It describes the facilites, instructors and the club ethos. This will give users information about what the club is about.
 
 ![welcome-text](https://user-images.githubusercontent.com/79532281/144599886-4dab3c38-dfb1-4c9e-9f66-fdf46d2cb465.png)
 
 
-As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
+* As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
 
 ![page-links](https://user-images.githubusercontent.com/79532281/144599615-9a8a0d92-f975-4aa9-be9c-52afad94b9ff.png)
 
-At the end of the page is the footer with the links to our social media links. Again these change color when hover over to encourage interaction.
+* At the end of the page is the footer with the links to our social media links. Again these change color when hovered over to encourage interaction.
 
 ![footer](https://user-images.githubusercontent.com/79532281/144599646-200be01c-5074-410b-86a8-42b347a85c8d.png)
 
@@ -83,19 +84,19 @@ At the end of the page is the footer with the links to our social media links. A
 
 This page contains the classes offered and a brief description of each class. There is an image of the class type to give a visual idea of the classes.
 
-The first class displayed is Brazilian Jiujitsu (BJJ). I wanted to user to get a little bit of the history of the art, what the key principles are and who teaches the classes.
+* The first class displayed is Brazilian Jiujitsu (BJJ). I wanted the user to learn a bit of the history of the art, what the key principles are and who teaches the classes.
 
 ![BJJ class](https://user-images.githubusercontent.com/79532281/144985734-a919b243-6824-4514-9bda-00916c2d53dc.png)
 
-The next section is the No-gi grappling section. This section informs the user of the differances between No-gi grappling and BJJ / Judo.
+* The next section is the No-gi grappling section. This section informs the user of the differances between No-gi grappling and BJJ / Judo.
 
 ![No-gi class](https://user-images.githubusercontent.com/79532281/144987799-f9616cdd-f703-4f34-86ce-ce00f744f0cf.png)
 
-The final section is Judo. This section has a brief description of the history of Judo, the key principles behind Judo and who will teach the classes.
+* The final section is Judo. This section has a brief description of the history of Judo, the key principles behind Judo and who will teach the classes.
 
 ![Judo class](https://user-images.githubusercontent.com/79532281/144987752-028c38d7-365c-430c-856c-a4db5026b5e5.png)
 
-This section provides the user with an overview of the classes offered at the club.
+* This section contains information that first time users need about the classes.
 
 ### Timetable
 
@@ -104,22 +105,22 @@ This page has the timetable which displays what days and times the classes are o
 ![timetable](https://user-images.githubusercontent.com/79532281/144608252-9ff3a960-2fad-49fb-bba2-a6349b7bc462.png)
 
 
-There is a description of the classes underneath the timetable so the user knows what is expected in each class.
+* There is a description of the classes underneath the timetable so the user knows what is expected in each class. 
 
 ![timetable-classes](https://user-images.githubusercontent.com/79532281/144608445-4e4ee297-8aa4-4ef1-8d91-299a18fd2f5a.png)
 
-New user can find out about the times classes are running and return users can learn about the advance classes as the progress on their grappling journey. This section will also provide all the info required for guests who wish to visit the club. This should give a positive experience for new and return users.
+* New user can find out about the times classes are running and return users can learn about the advance classes as the progress on their grappling journey. This section will also provide all the info required for guests who wish to visit the club. This should give a positive experience for new and return users.
 
-I used [W3School Table](https://www.w3schools.com/html/html_tables.asp) for guidance when creating the timetable.
+* I used [W3School Table](https://www.w3schools.com/html/html_tables.asp) for guidance when creating the timetable.
 
 
 ### Contact Us
 
-Users can complete the form and make contact with the club to ask whatever questions the have. 
+* Users can contact the club and ask any questions they have with the form provided. This can be used by new and returning visitors.
 
 ![contact-form](https://user-images.githubusercontent.com/79532281/144609682-b6d0f5e8-b15b-4c0c-9aff-d8c85f16857c.png)
 
-A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will show the benefits training BJJ can have and encourage the user to get in contact.
+* A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will show the benefits training BJJ can have and encourage the user to get in contact.
 
 ![video](https://user-images.githubusercontent.com/79532281/144610074-06eaa031-e74d-40b9-9a42-43cb03b03f6b.png)
 
@@ -127,7 +128,7 @@ A video at the end of the page shows BJJ highlights and shows the user what BJJ 
 
 ## Future features
 
-Below are a list of features I would like to add to the site to improve user experience and encourage return visits to the site.
+Below is list of features I would like to add to the site to improve the overall user experience and improve the visual look of the site.
 
 * Club shop
   * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
@@ -139,6 +140,8 @@ Below are a list of features I would like to add to the site to improve user exp
   * I would like to create a slideshow showing members testimonials and their experience.
 
 # Technologies Used
+
+For this projects the main tecnologies I used are:
 
 * [Balsamiq](https://balsamiq.com/)
   * Balsamiq were used to create the wireframes
@@ -165,13 +168,13 @@ Below are a list of features I would like to add to the site to improve user exp
 
 ## HTML Testing
 
-I tested my HTML in HTML Validator. I fixed all errors appearing in the code and now all the site passes the test.
+I tested my HTML in HTML Validator. I fixed all the errors and warnings that were appearing and now all the site passes the test.
 
 ![HTML validator pass](https://user-images.githubusercontent.com/79532281/145018193-62978b6d-8736-4f17-a2f5-06d59ea37c50.png)
 
 ## CSS Testing
 
-I tested my CSS in CSS Validator All errors found in my CSS were fixed and now passes all tests.
+I tested my CSS in CSS Validator I fixed the errors and warnings found in my CSS and the site now passes all tests.
 
 ![CSS validator pass](https://user-images.githubusercontent.com/79532281/145210812-26f0bfae-e5e8-4c39-bb70-7ea5269bac83.png)
 
@@ -193,15 +196,15 @@ I tested my CSS in CSS Validator All errors found in my CSS were fixed and now p
 
 ### Video
 
-When viewing the video on the live site the video was not appearing.
+When viewing the video on the live site the below error was appearing.
 
 ![youtube video](https://user-images.githubusercontent.com/79532281/144613466-c504655d-1929-4640-9a22-6beac8da54e4.png)
 
-I searched Google and found the issue to be in the link I copied over. The link had the video as /watch which is incorrect when embedding into code.
+* I searched Google and found the issue to be in the link I copied over. The link had the video as /watch which is incorrect when embedding into code.
 
 ![youtube watch](https://user-images.githubusercontent.com/79532281/144613626-b4a10fde-857d-45f4-9062-ce7e8c8feb22.png)
 
-I amended the link to /embed and this fixed the error. Video is now working on the site.
+* I amended the link to /embed and this fixed the error. Video is now working on the site.
 
 ![youtube embed](https://user-images.githubusercontent.com/79532281/144614218-7d72728d-c246-46f3-a0c7-36eacb4aa783.png)
 
