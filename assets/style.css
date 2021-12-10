@@ -559,7 +559,7 @@ footer{
         width: fit-content;
         text-align: center;
         display: flex;
-        height: 525px;
+        height: 600px;
     }
 
     #bjj img{
@@ -603,7 +603,7 @@ footer{
         text-align: center;
         display: flex;
         flex-direction: column;
-        height:525px;
+        height:600px;
     }
 
     #judo img{
