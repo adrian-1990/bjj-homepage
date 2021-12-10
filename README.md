@@ -8,31 +8,60 @@ You can view the respository here [Github](https://github.com/adrian-1990/bjj-ho
 
 ![responsive](https://user-images.githubusercontent.com/79532281/144610386-e468e6af-0da0-405e-8112-a6cc9dc04e5e.png)
 
+# UX - User Experience Design
 
-## Design process
+## User Stories
 
-I created my initial deisgn on wireframe to get a feel for the deisgn and layout. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages. 
-I wanted the site to be easy to use for first time visitors but also to encourage return visits. I want the to site to have easy navigation and for users to easily get in contact via email ro social media.
+The site is created for anybody who has an interest learning about what Cork Grappling Academy offers. 
 
-Below are the design ideas I had before eventully settling on my current design.
+* New users can learn about the club, what classes it offers and when the classes are on.
+* Return visitors can learn a bit more about the club through the social media links.
+* Anybody intrested in joining or visiting can make contact with the club through the contact form.
 
-#### Design 1 
+## Design Process
+
+When I began to design my website I went back over the User Experience Essential module that we done earlier in the course and followed the 5 pillars of User Experience Design (UXD) in my design process to create a positive experience for those using the site.
+
+* **Strategy** - What am I aiming to achive with this site and who is the target user.
+* **Scope** - What features do I want on the site and reason behind them.
+* **Structure** - How will I structure the site, what informaion will I have on each page.
+* **Skeleton** - Wireframes created to see how the site will look and how the user will navigate the site.
+* **Surface** - The design choices for the site. What fonts will I use, images relevent to the site, color choices.
+
+## Strategy
+
+The users of this site will be people interested in learning about the club and potentially joining. The site needs to have relevent information available so the user can learn about the club. There should be a way for the user to contact the club either through email or social media.
+
+## Scope
+
+It's important for the site to contain information on the classes offered, what time the classes are on and a contact form for the user to make contact. The user will get information on the classes are offered and learn a little bit about the differant styles of grappling taught. The timetable will show what time the classes are on and what level the class is sutible for. If a beginner turns up to an advance class and does not have an enjoyable experience he might not come back so with the timetable they will find when a class sutible for them will be on. The contact form will allow the user to make contact with the club with any questions or queries they have.
+
+## Structure
+
+The structure of the site will consistant throughout the differant pages. The header will be at the top of each page to allow the user to navigate the site easily. Below the header will be the main section of the page will will contain all the relevent information for the page the user is on. At the bottom of the page will be the footer witht he social media links. When a user hovers over an interactive element it will change color to let the user know it is interactive.
+
+## Skeleton
+
+I created my initial design on Wireframe to get an for the layout of the site. I initially wanted to do a single page with four differant sections but as my design evolved I amended it to four pages. The navbar and footer will be present on all pages of the site. The navbar will allow for easy navigation between the differant page and the footer will accesss the social media pages for the club.
+
+## Design 1 
 ![BJJ Wireframe layout 1](https://user-images.githubusercontent.com/79532281/144373892-66e070a6-c7b5-4075-8c54-57059cc16ce0.png)
 
-#### Design 2 
+## Design 2 
 ![BJJ Wireframe layout 2](https://user-images.githubusercontent.com/79532281/144374230-100d65fc-e90c-42dd-a2e9-ad75e774f00b.png)
 ![BJJ wireframe Classes](https://user-images.githubusercontent.com/79532281/144374252-b48502f8-6f50-4ebe-89de-fd9e1b144753.png)
 ![BJJ Wireframe Timetable](https://user-images.githubusercontent.com/79532281/144374269-d93772fc-d673-44ef-b312-cdf3dfc2974c.png)
 ![BJJ Wireframe Contact Us](https://user-images.githubusercontent.com/79532281/144374289-f6c1fdb0-8041-4fc8-90f3-4dcb24d0ba8c.png)
 
+## Surface
+
+All the design choices I selected will be consitant throughout the site to allow easier use and reduce user error.
 
 ### Typography
 
-I chose two fonts for the site. I chose **"Cairo"** as my font for headings with sans-serif as back up. For my paragraphs / timetable body / forms I have use the font **"Mohave"** with sans-serif as back up.
+I chose two fonts for the site. I chose **"Cairo"** as my font for headings with **Sans-Serif** as back up. For my paragraphs / timetable body / forms I have use the font **"Mohave"** with **Sans-Serif** as back up. The fonts selected compliment each other well and give the site a modern look.
 
-* These two fonts give the page a clean and modern look and provide a positive user experience.
-
-### Color scheme
+### Color Scheme
 
 The color scheme uses a minimal pallet and gets the majority of color from the images on the page. When you hover over an interactive link they change color to catch your attention and encourage you to explore the site by clicking the link.
 
@@ -46,8 +75,9 @@ The colors I used were:
 All the images used on the site were taken from [Unsplash](https://unsplash.com/s/photos/judo). This site allows you to download images for free. I wanted the images to display people practicing BJJ / No-gi grappling so visitors to the site would get an idea of what the club offered and encourage a return visit to learn more.
 The images used on the site were quite large so I compressed them using [Tinypng](https://tinypng.com/).
 
+# Features
 
-## Site Structure.
+## Site Structure
 
 The site consists of four pages:
 
@@ -58,21 +88,19 @@ The site consists of four pages:
 
 The navbar and footer will be present on all pages. This will allow the user to easily navigate the site and to get in contact via social media.
 
-### Landing page.
+## Landing page
 
-This is the default page when visit the site. There will be a header element with the club logo and nav elements. A main image of people training BJJ. Three links to the other pages on the site and the footer at the end.
+This is the default page when visiting the site. There will be a header with the club logo and nav elements. A main image of people training BJJ. A message about the club, images with links to the other pages on the site and the footer at the end.
 
-* When you land on the page you first see the navbar and a large image of people training BJJ. This will let the site user know how they can naviagate the site and give them an idea of what the club offers. As a first time visitor you will have how to navigate the site and the image is relevent to what the club offer and provide a positive user experience.
+* When you land on the page you first see the navbar and a large image of people training BJJ. This will let the user know how they can naviagate the site and give them an idea of what the club offers. As a first time visitor you will have how to navigate the site and the image is shows members training BJJ.
 
 ![welcome-section](https://user-images.githubusercontent.com/79532281/144607551-80567aee-3154-4735-8fb3-ec91756f90a9.png)
-
 
 * As you scoll down you encounter the welcome text. This is a brief description about what the club offers. It describes the facilites, instructors and the club ethos. This will give users information about what the club is about.
 
 ![welcome-text](https://user-images.githubusercontent.com/79532281/144599886-4dab3c38-dfb1-4c9e-9f66-fdf46d2cb465.png)
 
-
-* As you scroll down the page you come to a section with three images and links to other sections of the page. On a PC or laptop when the user hovers over the text under the images they will change color to let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
+* As you scroll down the page you come to a section with three images and links to other pageS. On a PC or laptop when the user hovers over the text under the images they will change color to rgb(228, 58, 58) and let the user know they can be interacted with and encourage the user to click the links and find out more about what the club has to offer.
 
 ![page-links](https://user-images.githubusercontent.com/79532281/144599615-9a8a0d92-f975-4aa9-be9c-52afad94b9ff.png)
 
@@ -80,64 +108,60 @@ This is the default page when visit the site. There will be a header element wit
 
 ![footer](https://user-images.githubusercontent.com/79532281/144599646-200be01c-5074-410b-86a8-42b347a85c8d.png)
 
-### Classes page.
+## Classes
 
 This page contains the classes offered and a brief description of each class. There is an image of the class type to give a visual idea of the classes.
 
 * The first class displayed is Brazilian Jiujitsu (BJJ). I wanted the user to learn a bit of the history of the art, what the key principles are and who teaches the classes.
 
-![BJJ class](https://user-images.githubusercontent.com/79532281/144985734-a919b243-6824-4514-9bda-00916c2d53dc.png)
+![BJJ class](https://user-images.githubusercontent.com/79532281/145643123-e5bf698a-e3c8-43d4-9ae8-cf2307c366dc.png)
 
 * The next section is the No-gi grappling section. This section informs the user of the differances between No-gi grappling and BJJ / Judo.
 
-![No-gi class](https://user-images.githubusercontent.com/79532281/144987799-f9616cdd-f703-4f34-86ce-ce00f744f0cf.png)
+![No-gi class](https://user-images.githubusercontent.com/79532281/145642991-2dac91d2-4a1a-4a74-8a7e-120b754d6abc.png)
 
 * The final section is Judo. This section has a brief description of the history of Judo, the key principles behind Judo and who will teach the classes.
 
-![Judo class](https://user-images.githubusercontent.com/79532281/144987752-028c38d7-365c-430c-856c-a4db5026b5e5.png)
+![Judo class](https://user-images.githubusercontent.com/79532281/145642976-711cabdf-ab94-4a0f-8f4c-4a16da9609a1.png)
 
-* This section contains information that first time users need about the classes.
+* The section will give first time visitors information about the classes offered.
 
-### Timetable
+## Timetable
 
 This page has the timetable which displays what days and times the classes are on.
 
 ![timetable](https://user-images.githubusercontent.com/79532281/144608252-9ff3a960-2fad-49fb-bba2-a6349b7bc462.png)
 
-
-* There is a description of the classes underneath the timetable so the user knows what is expected in each class. 
+* There is a description of the classes underneath the timetable so users know what is expected in each class. 
 
 ![timetable-classes](https://user-images.githubusercontent.com/79532281/144608445-4e4ee297-8aa4-4ef1-8d91-299a18fd2f5a.png)
 
-* New user can find out about the times classes are running and return users can learn about the advance classes as the progress on their grappling journey. This section will also provide all the info required for guests who wish to visit the club. This should give a positive experience for new and return users.
+* New users can find out about the times classes are running and return users can learn about the advance classes as their progress on their grappling journey. This section will provide all the info required for guests who wish to visit the club. 
 
 * I used [W3School Table](https://www.w3schools.com/html/html_tables.asp) for guidance when creating the timetable.
 
-
-### Contact Us
+## Contact Us
 
 * Users can contact the club and ask any questions they have with the form provided. This can be used by new and returning visitors.
 
 ![contact-form](https://user-images.githubusercontent.com/79532281/144609682-b6d0f5e8-b15b-4c0c-9aff-d8c85f16857c.png)
 
-* A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. This will show the benefits training BJJ can have and encourage the user to get in contact.
+* A video at the end of the page shows BJJ highlights and shows the user what BJJ is about. The video shows the benefits training BJJ can have and encourage the user to get in contact.
 
 ![video](https://user-images.githubusercontent.com/79532281/144610074-06eaa031-e74d-40b9-9a42-43cb03b03f6b.png)
 
-
-
-## Future features
+# Future Features
 
 Below is list of features I would like to add to the site to improve the overall user experience and improve the visual look of the site.
 
-* Club shop
+* **Club Shop**
   * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
 
-* Burger menu
-  * I would like to create a burger menu for mobile and smaller screen sizes. I feel this would clean up the navbar and improve the user experience.
+* **Burger Menu**
+  * I would like to create a burger menu for mobile and smaller screen sizes. This improve the design when viewing the site on smaller screens and improve the users      experience.
 
-* Testimonials
-  * I would like to create a slideshow showing members testimonials and their experience.
+* **Testimonials**
+  * I would like to create a slideshow showing members testimonials and their experience training at the club.
 
 # Technologies Used
 
@@ -209,10 +233,10 @@ When viewing the video on the live site the below error was appearing.
 ![youtube embed](https://user-images.githubusercontent.com/79532281/144614218-7d72728d-c246-46f3-a0c7-36eacb4aa783.png)
 
 # Deployment
-
-### Project Creation
+## Project Creation
 
 The project was created by using Github and Gitpod pages. I created the code through Gitpod pages and then backed them up to Github. This allowed me to create a live site via Github.
+
 **To deploy the project**
 
 The site was deployed to GitHub pages. The steps to deploy the site are:
@@ -223,17 +247,18 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 ![Github pages link (2)](https://user-images.githubusercontent.com/79532281/143587694-59346abd-5c08-4af6-bb4a-5b294b3ce4ec.png)
 
 # Credits
-### Content
+
+## Content
 * The fonts came from [Google Fonts](https://fonts.google.com/).
 * The icons for the footer came from [Fontawesome](https://fontawesome.com/start).
-* The footer code came from the Love Running walkthrough.
+* The footer code came from the Love Running walkthrough project.
 * The responsive image at the top of the README was created by [Am I responsive](http://ami.responsivedesign.is/).
-* The footer code and icons was taken from the love running project.
+* The footer code and icons were taken from the Love Running walkthrough project.
 * The text on the BJJ classes came from [Wiki BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu).
 * The text for the Judo classes came from [Wiki Judo](https://en.wikipedia.org/wiki/Judo).
 * The timetable was created with guidance from [W3Schools](https://www.w3schools.com/html/html_tables.asp).
 
-### Media
+## Media
 * All the images for the page came from [Unsplash](https://unsplash.com/)
 * The Youtube video was taken from [Youtube](https://www.youtube.com/c/stuartcooperfilms)
 * The photos were compressed using [Tinypng](https://tinypng.com/)
