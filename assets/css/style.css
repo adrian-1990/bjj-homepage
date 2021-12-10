@@ -60,7 +60,7 @@ font-size: 120%;
 #image-main{
     height: 600px;
     width:100%;
-    background:url(../assets/images/bjj-class-large.jpg) no-repeat center center;
+    background:url("/assets/images/bjj-class-large.jpg") no-repeat center center;
     background-size:cover;
 }
 
