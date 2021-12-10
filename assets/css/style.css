@@ -570,6 +570,7 @@ footer{
         margin-right: 0;
         width:auto;
         letter-spacing: 0;
+        text-align: center;
     }
 
     #second-section{
@@ -592,6 +593,7 @@ footer{
         margin-right: 0;
         width:auto;
         letter-spacing: 0;
+        text-align: center;
     }
 
     #third-section{
@@ -614,6 +616,7 @@ footer{
         margin-left: 0;
         width:auto;
         letter-spacing: 0;
+        text-align: center;
     }
 
     /* timetable */
