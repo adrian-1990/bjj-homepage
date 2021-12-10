@@ -158,7 +158,7 @@ Below is list of features I would like to add to the site to improve the overall
   * I would like to create a club shop where members would be able to buy club merchendise (t-shirts, hoodies, stickers etc.)
 
 * **Burger Menu**
-  * I would like to create a burger menu for mobile and smaller screen sizes. This improve the design when viewing the site on smaller screens and improve the users      experience.
+  * I would like to create a burger menu for mobile and smaller screen sizes. This would improve the design when viewing on smaller screens and the users experience.
 
 * **Testimonials**
   * I would like to create a slideshow showing members testimonials and their experience training at the club.
