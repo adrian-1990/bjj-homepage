@@ -253,7 +253,7 @@ The site was deployed to GitHub pages. The steps to deploy the site are:
 * The icons for the footer came from [Fontawesome](https://fontawesome.com/start).
 * The footer code came from the Love Running walkthrough project.
 * The responsive image at the top of the README was created by [Am I responsive](http://ami.responsivedesign.is/).
-* The footer code and icons were taken from the Love Running walkthrough project.
+* The footer code and icons were taken from the Love Running walkthrough project.[Love Running project](https://github.com/adrian-1990/love-running)
 * The text on the BJJ classes came from [Wiki BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu).
 * The text for the Judo classes came from [Wiki Judo](https://en.wikipedia.org/wiki/Judo).
 * The timetable was created with guidance from [W3Schools](https://www.w3schools.com/html/html_tables.asp).
