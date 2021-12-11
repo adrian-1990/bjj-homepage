@@ -88,6 +88,27 @@ The site consists of four pages:
 
 The navbar and footer will be present on all pages. This will allow the user to easily navigate the site and to get in contact via social media.
 
+The code for the footer was taken from the Love Running project walk through.
+
+```html
+    <footer>
+        <ul class="social-networks">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Vitis our facebook page(opens in a new tab)"><i class="fab fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Vitis our twitter page(opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Vitis our youtube page(opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Vitis our instagram page(opens in a new tab)"><i class="fab fa-instagram"></i></a>
+            </li>
+        </ul>
+    </footer>
+```
+
 ## Landing page
 
 This is the default page when visiting the site. There will be a header with the club logo and nav elements. A main image of people training BJJ. A message about the club, images with links to the other pages on the site and the footer at the end.
