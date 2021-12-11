@@ -464,16 +464,12 @@ footer{
         align-items: center;
     }
 
-    #classes-link img{
+    #classes-link img, #timetable-link img, #contact-us-link img{
         height: 80%;
     }
 
-    #timetable-link img{
-        height:80%;
-    }
-
-    #contact-us-link{
-        height: 80%;
+    #classes-link, #timetable-link, #contact-us-link{
+        width: 100%;
     }
 
     /* classes-page */
