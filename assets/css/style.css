@@ -172,14 +172,14 @@ footer{
 
 /* classes page */
 
-#first-section{
+#bjj-class{
     height:500px;
     width:100%;
     display: inline-flex;
     justify-content: space-evenly;
 }
 
-#bjj img{
+#bjj-class img{
     height: 500px;
     width:500px;
     float: left;
@@ -203,14 +203,14 @@ footer{
     margin-left: 30px;
 }
 
-#second-section{
+#no-gi-class{
     height:500px;
     width:100%;
     display: inline-flex;
     justify-content: space-evenly;
 }
 
-#grappling-image img{
+#no-gi-class img{
     height: 500px;
     width: 500px;
     float: right;
@@ -234,7 +234,7 @@ footer{
     font-size: 175%;
 }
 
-#third-section{
+#judo-class{
     height:500px;
     width:100%;
     margin-bottom: 50px;
@@ -242,7 +242,7 @@ footer{
     justify-content: space-evenly;
 }
 
-#judo img{
+#judo-class img{
     height: 500px;
     width: 500px;
     float: left;
@@ -478,12 +478,12 @@ footer{
 
     /* classes-page */
 
-    #first-section{
+    #bjj-class{
         width:100%;
         display: inline;
     }
 
-    #bjj img, #bjj-text{
+    #bjj-class img, #bjj-text{
         width:48%;
     }
 
@@ -492,19 +492,19 @@ footer{
         margin-left: 0;
     }
 
-    #second-section{
+    #no-gi-class{
         width:100%;
     }
 
-    #second-section img, #no-gi-text{
+    #no-gi-class img, #no-gi-text{
         width:48%;
     }
 
-    #third-section{
+    #judo-class{
         width: 100%;
     }
 
-    #judo img, #judo-text{
+    #judo-class img, #judo-text{
         width:48%;
     }
 
@@ -551,72 +551,76 @@ footer{
 
     /* classes */
 
-    #first-section{
+    #bjj-class{
         width: fit-content;
-        text-align: center;
         display: flex;
-        height: 600px;
+        flex-direction: column;
+        justify-content: flex-start;
+        height: 700px;
+        align-items: center;
     }
 
-    #bjj img{
+    #bjj-class img{
         height: 60%;
         width: 80%;
         float: none;
     }
 
     #bjj-text{
-        height:0;
         margin-top: 0;
         margin-right: 0;
         width:auto;
         letter-spacing: 0;
         text-align: center;
+        font-size: 110%;
     }
 
-    #second-section{
+    #no-gi-class{
         width: fit-content;
-        text-align: center;
         display: flex;
         flex-direction: column;
-        height: 600px;
+        justify-content: flex-start;
+        height: 700px;
+        align-items: center;
     }
 
-    #grappling-image img{
-        height: 80%;
+    #no-gi-class img{
+        height: 60%;
         width: 80%;
         float: none;
     }
 
     #no-gi-text{
-        height:0;
         margin-top: 0;
         margin-right: 0;
         width:auto;
         letter-spacing: 0;
         text-align: center;
+        font-size: 110%;
     }
 
-    #third-section{
+    #judo-class{
         width: fit-content;
-        text-align: center;
         display: flex;
         flex-direction: column;
-        height:600px;
+        justify-content: flex-start;
+        height: 700px;
+        align-items: center;
     }
 
-    #judo img{
-        height: 80%;
+    #judo-class img{
+        height: 60%;
         width: 80%;
         float: none;
     }
 
     #judo-text{
-        height:0;
         margin-top: 0;
         margin-left: 0;
         width:auto;
         letter-spacing: 0;
         text-align: center;
+        font-size: 110%;
     }
 
     /* timetable */
