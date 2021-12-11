@@ -208,6 +208,7 @@ footer{
     width:100%;
     display: inline-flex;
     justify-content: space-evenly;
+    flex-direction: row-reverse;
 }
 
 #no-gi-class img{
