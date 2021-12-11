@@ -16,8 +16,8 @@
 }
 
 #menu{
-font-family: 'Cairo', sans-serif;
-font-size: 120%;
+    font-family: 'Cairo', sans-serif;
+    font-size: 120%;
 }
 
 #menu ol{
@@ -366,7 +366,6 @@ footer{
     text-align: center;
 }
 
-
 #your-name, #email{
     border-bottom: 1px solid lightgray;
     text-align: center;
@@ -413,6 +412,8 @@ footer{
 }
 
 /* media queries */
+
+/* media queries for medium sized decives such as tablets */
 
 @media screen and (max-width:1080px) {
     /* navbar */
@@ -528,6 +529,8 @@ footer{
     }
 }
 
+/* media queries for mobile phone screens */
+
 @media screen and (max-width:800px){
 
     /* landing page */
@@ -634,5 +637,4 @@ footer{
         overflow: hidden;
         height: 800px;
     }
- 
 }
